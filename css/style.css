@@ -1418,17 +1418,3 @@ footer .copy-txt {
 }
 
 }
-
-/*768px*/
-
-@media(max-width : 767px) {}
-
-/*451px*/
-
-@media(max-width : 450px) {}
-
-/*366px*/
-
-@media(max-width : 365px) {}
-
-/*(360/320)*/
