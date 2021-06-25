@@ -709,7 +709,7 @@ a {
 
 .art-box>.art-img>img {
   height: 100%;
-  cursor: pointer;
+  cursor: url('../img/cursor.cur'), auto;
 }
 
 .artwork-wrap>p {
@@ -922,12 +922,15 @@ footer .copy-txt {
   }
 
   .artwork-wrap {
-    padding: 55px 20px;
+    padding: 88px 20px;
   }
 
   .artwork-wrap>p {
     margin: 5px 59px;
   }
+  .artwork-wrap>.art-box1 {
+    margin-bottom: 35px;
+}
 }
 
 @media(max-width : 1450px) {
