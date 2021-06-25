@@ -63,6 +63,7 @@ $(document).ready(function () {
 
   });
 
+  /*click-img*/
   $(".section3 .art-img img").click(function(){
     console.log ('fdf')
     var image = $(this).attr('src');
